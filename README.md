@@ -1,9 +1,8 @@
 # Rapid-Recovery-Project
 
 This is a game created and designed for the recovery of Stroke Patients. 
-The game helps in the development of thr Fine Motor Skills(FMS) which is deactivated in the patients suffering from Stroke.
+The game helps in the development of the Fine Motor Skills(FMS) which is deactivated in the patients suffering from Stroke.
 
-This is a game that is created to help stroke patient improve their fine motor skill.
 
 Main Menu: https://editor.p5js.org/manas__1404/full/48Gid6pnb
 
